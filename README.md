@@ -1,2 +1,2 @@
-# may-li-resume
-May Li's updated resume
+# May Li's Resume
+My most updated resume!
