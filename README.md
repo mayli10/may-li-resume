@@ -1,2 +1,2 @@
 # May Li's Resume
-My most updated resume!
+![alt text](https://raw.githubusercontent.com/mayli10/may-li-resume/master/resume-github-feb-28-19.png)
