@@ -24,5 +24,3 @@
   * Northwestern Engineering Honor Roll ('18,'19), Northwestern Grace Hopper Conference Scholarship ('19), Vassar Grace Hopper Conference Scholarship ('18), AnitaB.org Grace Hopper Scholar ('18), Rewriting the Code Fellow ('18,'19), Impact Labs Coding Fellow ('18), Bank of America Grace Hopper Tuition Award ('18)
   
 * Reach out at: mayli10x@gmail.com
-
-![alt text](https://raw.githubusercontent.com/mayli10/may-li-resume/master/may-li-resume-sept-2019.png)
