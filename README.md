@@ -1,10 +1,9 @@
 # May Li's Resume
 
-**Looking for a Software Engineering Internship - Summer 2021.**
-
 * Northwestern University, Class of 2021, B.S. in Computer Science
 
 * Experience:
+  * Summer 2020: Incoming SWE Intern at [Lyft](https://www.lyft.com/)
   * Fall 2019: SWE Intern at [Affirm](https://www.affirm.com/)
   * Summer 2019: SWE Intern at [PayPal](https://www.paypal.com/us/home)
   * Summer 2018: SWE Intern at [Bank of America](https://www.bankofamerica.com/)
