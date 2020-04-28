@@ -1,6 +1,6 @@
 # May Li's Resume
 
-* Northwestern University, Class of 2021, B.S. in Computer Science
+* Northwestern University, Class of 2021 (March '21), B.A. in Computer Science
 
 * Experience:
   * Summer 2020: Incoming SWE Intern at [Lyft](https://www.lyft.com/)
