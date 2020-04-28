@@ -20,7 +20,7 @@
   * Full-Stack Web Development, Android Mobile Development, JavaScript/ES6, React, Redux, HTML, CSS, Less, Kotlin, Java, C++, Python, SQL, Git, Node.js, LaTeX, Sketch, Agile Development, Mandarin Chinese
   
 * Awards:
-  * Northwestern Engineering Honor Roll ('18,'19), Northwestern Grace Hopper Conference Scholarship ('19), Vassar Grace Hopper Conference Scholarship ('18), AnitaB.org Grace Hopper Scholar ('18), Rewriting the Code Fellow ('18,'19), Impact Labs Coding Fellow ('18), Bank of America Grace Hopper Tuition Award ('18)
+  * Northwestern Engineering Honor Roll ('18,'19, '20), Northwestern Grace Hopper Conference Scholarship ('19), Vassar Grace Hopper Conference Scholarship ('18), AnitaB.org Grace Hopper Scholar ('18), Rewriting the Code Fellow ('18,'19), Impact Labs Coding Fellow ('18), Bank of America Grace Hopper Tuition Award ('18)
   
 * Reach out at: mayli10x@gmail.com
 ![alt text](https://raw.githubusercontent.com/mayli10/may-li-resume/master/jan-9-resume.png)
