@@ -1,15 +1,17 @@
 # May Li's Resume
 
-* Northwestern University, Class of 2021 (March '21), B.A. in Computer Science
+* Northwestern University, Class of 2020 (Dec '20), B.A. in Computer Science
 
 * Experience:
-  * Summer 2020: Incoming SWE Intern at [Lyft](https://www.lyft.com/)
+  * Incoming Software Engineer at [Affirm](https://www.affirm.com/)
+  * Summer 2020: SWE Intern at [Lyft](https://www.lyft.com/)
   * Fall 2019: SWE Intern at [Affirm](https://www.affirm.com/)
   * Summer 2019: SWE Intern at [PayPal](https://www.paypal.com/us/home)
   * Summer 2018: SWE Intern at [Bank of America](https://www.bankofamerica.com/)
   * Summer 2017: Coding Bootcamp Fellowship Recipient at [Horizons](https://www.coursereport.com/schools/horizons-school-of-technology)
   
 * Leadership:
+  * 2019, 2020: Research Assistant - Mental Health & Machine Learning, Northwestern University
   * 2019: Teaching Assistant - Data Structures & Algorithms, Northwestern University
   * 2019: Research Assistant - Databases, Northwestern University
   * 2019: Lead Developer - Develop & Innovate for Social Change (DISC) Club, Northwestern University
