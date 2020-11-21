@@ -1,6 +1,6 @@
 # May Li's Resume
 
-* Northwestern University, Class of 2020 (Dec '20), B.A. in Computer Science
+* Northwestern University, Class of 2020 (Dec '20), B.A. in Computer Science, 3.83/4.0 GPA
 
 * Experience:
   * Incoming Software Engineer at [Affirm](https://www.affirm.com/)
